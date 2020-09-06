@@ -1,8 +1,9 @@
 # An Expert Noob build of ST - The suckless/simple terminal
-Literally the best terminal i have ever used having an awesome unicode(🤣🙂😈👋) support.
+- Literally the best terminal i have ever used having an awesome unicode(🤣🙂😈👋) support.
+- Minimalist free from bloat.
 
 ## This build provide out of the box support for 
-- **Emoji and special character.** (its really cool to have emoji in terminal💀👹👽)
+- **Emoji and special character.** (Yeah man emoji in terminal💀👹👽 it's really cool)
 - **Transparency.**
 - **Scrollback.**
 - **Cursor Blinking.**
@@ -23,10 +24,21 @@ sudo pacman -S ttf-joypixels
 
 ## Installation
 
-- Clone the repo
+- Clone the repo and install it.
 ````
 git clone https://github.com/echo-rahul/st.git 
 cd st
 sudo make install
 ````
 
+
+## Details of the patches applied
+- alpha
+- blinking cursor
+- desktopentry
+- gruvbox
+- font2
+- scrollback
+
+> You can also build your own st 
+ check out more patches at [suckless](https://st.suckless.org/)
