@@ -41,5 +41,8 @@ sudo make install
 - font2
 - scrollback
 
-## You can also build your own st>
- check out more patches at [suckless](https://st.suckless.org/)
+## You can also build your own st
+> check out more patches at [suckless](https://st.suckless.org/)
+
+## More gruvbox color scheme
+> [gruvbox](https://github.com/morhetz/gruvbox)
