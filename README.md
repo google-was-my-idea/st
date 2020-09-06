@@ -1,6 +1,7 @@
 # An Expert Noob build of ST - The suckless/simple terminal
 - Literally the best terminal i have ever used having an awesome unicode(🤣🙂😈👋) support.
 - Minimalist free from bloat.
+- From suckless
 
 ## This build provide out of the box support for 
 - **Emoji and special character.** (Yeah man emoji in terminal💀👹👽 it's really cool)
