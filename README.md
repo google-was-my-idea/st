@@ -41,5 +41,5 @@ sudo make install
 - font2
 - scrollback
 
-> You can also build your own st 
+## You can also build your own st>
  check out more patches at [suckless](https://st.suckless.org/)
