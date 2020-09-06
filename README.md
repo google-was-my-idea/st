@@ -46,3 +46,5 @@ sudo make install
 
 ## More gruvbox color scheme
 > [gruvbox](https://github.com/morhetz/gruvbox)
+
+Thanks and Enjoy this build !
