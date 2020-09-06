@@ -8,7 +8,7 @@
 - **Transparency.**
 - **Scrollback.**
 - **Cursor Blinking.**
-- **Gruvbox Color Scheme.**
+- **Gruvbox Color Scheme.** (A color scheme which just feels light on eyes)
 
 ## Steps before installation.
 - Replace libxft package with libxft-bgra for BGRA glyphs and scaling support(emoji).
