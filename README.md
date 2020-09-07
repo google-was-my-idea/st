@@ -18,6 +18,7 @@
 - Replace libxft package with libxft-bgra for BGRA glyphs and scaling support(emoji).
   You can install libxft-bgra-git from aur using aur helper
   or you can also make it on your own.
+  Emoji rendering is not the problem of st it's because of libxft.
 ``````
 yay -S libxft-bgra-git
 ``````
