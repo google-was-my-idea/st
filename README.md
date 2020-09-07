@@ -35,7 +35,11 @@ git clone https://github.com/google-was-my-idea/st.git
 cd st
 sudo make install
 ````
-
+## Key bindings
+- scroll up and down using shift+j and shift+k.
+- zoom out and zoom in using ctrl+shift+up and ctrl+shift+down.
+- ctrl+shift+left for zoomreset.
+- ctrl+shift+c and ctrl+shift+v for copy and paste.
 
 ## Details of the patches applied
 - alpha
