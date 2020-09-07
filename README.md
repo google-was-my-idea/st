@@ -1,4 +1,5 @@
 # An Expert Noob build of ST - The suckless/simple terminal
+> for arch users
 - Literally the best terminal i have ever used having an awesome unicode(🤣🙂😈👋) support.
 - Minimalist free from bloat.
 - From suckless
