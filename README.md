@@ -10,6 +10,8 @@
 - **Cursor Blinking.**
 - **Gruvbox Color Scheme.** (A color scheme which just feels light on eyes)
 
+![st](https://photos.app.goo.gl/Bhm4fU11qwkRBHRd9)
+
 ## Steps before installation.
 - Replace libxft package with libxft-bgra for BGRA glyphs and scaling support(emoji).
   You can install libxft-bgra-git from aur using aur helper
