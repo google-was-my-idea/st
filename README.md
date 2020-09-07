@@ -10,6 +10,7 @@
 - **Cursor Blinking.**
 - **Gruvbox Color Scheme.** (A color scheme which just feels light on eyes)
 
+## screenshots
 ![st](https://user-images.githubusercontent.com/70854893/92415485-bc8ccb00-f176-11ea-858b-b3cb344d0ebd.png)
 
 
