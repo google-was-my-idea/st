@@ -12,7 +12,7 @@
 - **Gruvbox Color Scheme.** (A color scheme which just feels light on eyes)
 
 ## screenshots
-![st](https://user-images.githubusercontent.com/70854893/92415485-bc8ccb00-f176-11ea-858b-b3cb344d0ebd.png)
+![st1](https://user-images.githubusercontent.com/70854893/92417516-42f9da80-f180-11ea-9609-53ffecd0ded4.png)
 
 
 ## Steps before installation.
