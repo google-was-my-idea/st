@@ -43,6 +43,7 @@ sudo make install
 - zoom out and zoom in using ctrl+shift+up and ctrl+shift+down.
 - ctrl+shift+left for zoomreset.
 - ctrl+shift+c and ctrl+shift+v for copy and paste.
+- You can also bind your own keys by changing config.h file.
 
 ## Details of the patches applied
 - alpha
