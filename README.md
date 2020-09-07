@@ -19,6 +19,7 @@
   You can install libxft-bgra-git from aur using aur helper
   or you can also make it on your own.
   Emoji rendering is not the problem of st it's because of libxft.
+  For more details [libxft-bgra](https://gitlab.freedesktop.org/xorg/lib/libxft/-/merge_requests/1)
 ``````
 yay -S libxft-bgra-git
 ``````
