@@ -27,7 +27,7 @@ sudo pacman -S ttf-joypixels
 
 - Clone the repo and install it.
 ````
-git clone https://github.com/echo-rahul/st.git 
+git clone https://github.com/google-was-my-idea/st.git 
 cd st
 sudo make install
 ````
